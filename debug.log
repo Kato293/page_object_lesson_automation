@@ -1,0 +1,6 @@
+[0124/163415.963:ERROR:process_info.cc(359)] UncheckedAllocate
+[0124/163428.243:ERROR:process_info.cc(329)] VirtualQueryEx: Отказано в доступе. (0x5)
+[0124/163428.243:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0124/163428.243:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)
+[0124/163444.868:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0124/163444.869:ERROR:exception_snapshot_win.cc(98)] thread ID 8776 not found in process
